@@ -1,4 +1,4 @@
-# DelivTimeAI Project
+# DelivTimeAI
 
 The DelivTimeAI project leverages Conformalized Quantile Regression to forecast Food Delivery Time with Uncertainty Quantification. In today's world where e-commerce is ubiquitous and most goods are shipped with an ETA estimator, uncertainty quantification becomes crucial for accurate delivery time predictions.
 
