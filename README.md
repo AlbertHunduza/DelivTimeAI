@@ -39,7 +39,7 @@ Through this analysis, I gained an understanding of the features that have the m
 
 In the second section, I implemented regression using a neural network in PyTorch. After training the model for 1000 epochs, I achieved a low root mean squared error (RMSE) of 8.2. However, the results were not satisfactory as they did not provide enough useful information for decision-making purposes. Below is the graph of the initial model results:
 
-![Neural Network Results](initial_model.JPG)
+![Neural Network Results](initial_model.png)
 
 ### 3) Conformalized Quantile Regression for Prediction Intervals
 
